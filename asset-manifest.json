@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-admin-crm/static/js/main.45b71c7a.chunk.js",
-    "main.js.map": "/react-admin-crm/static/js/main.45b71c7a.chunk.js.map",
-    "runtime-main.js": "/react-admin-crm/static/js/runtime-main.8cde8248.js",
-    "runtime-main.js.map": "/react-admin-crm/static/js/runtime-main.8cde8248.js.map",
-    "static/js/2.1c1a435d.chunk.js": "/react-admin-crm/static/js/2.1c1a435d.chunk.js",
-    "static/js/2.1c1a435d.chunk.js.map": "/react-admin-crm/static/js/2.1c1a435d.chunk.js.map",
-    "static/js/3.f0e3200c.chunk.js": "/react-admin-crm/static/js/3.f0e3200c.chunk.js",
-    "static/js/3.f0e3200c.chunk.js.map": "/react-admin-crm/static/js/3.f0e3200c.chunk.js.map",
-    "index.html": "/react-admin-crm/index.html",
-    "static/js/2.1c1a435d.chunk.js.LICENSE.txt": "/react-admin-crm/static/js/2.1c1a435d.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.28252a0b.chunk.js",
+    "main.js.map": "./static/js/main.28252a0b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2545d4ef.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2545d4ef.js.map",
+    "static/js/2.870c9b6c.chunk.js": "./static/js/2.870c9b6c.chunk.js",
+    "static/js/2.870c9b6c.chunk.js.map": "./static/js/2.870c9b6c.chunk.js.map",
+    "static/js/3.e989a5ed.chunk.js": "./static/js/3.e989a5ed.chunk.js",
+    "static/js/3.e989a5ed.chunk.js.map": "./static/js/3.e989a5ed.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.870c9b6c.chunk.js.LICENSE.txt": "./static/js/2.870c9b6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cde8248.js",
-    "static/js/2.1c1a435d.chunk.js",
-    "static/js/main.45b71c7a.chunk.js"
+    "static/js/runtime-main.2545d4ef.js",
+    "static/js/2.870c9b6c.chunk.js",
+    "static/js/main.28252a0b.chunk.js"
   ]
 }
