@@ -10,7 +10,7 @@ To explore the source code, head to [marmelab/atomic-crm](https://github.com/mar
 
 ## How to run
 
-This demo is a static website, so you just need a web server to serve the HTML, JS and JSS files. For example, with Python:
+This demo is a static website, so you just need a web server to serve the HTML, JS and CSS files. For example, with Python:
 
 ```sh
 python3 -m http.server
